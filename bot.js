@@ -1,5 +1,5 @@
 let twit = require('twit');
-let config = require('./config');
+let config = require('./config.js');
 
 let Twitter = new twit(config);
 
