@@ -1,0 +1,14 @@
+{
+  "name": "motivate_me_bot",
+  "version": "1.0.0",
+  "description": "Twitter bot to motivate fellow programmers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Erol Aliyev",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
